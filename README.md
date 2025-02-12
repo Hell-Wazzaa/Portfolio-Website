@@ -1,4 +1,3 @@
-# Portfolio-Website
 # Portfolio Website
 
 This is a responsive portfolio website built using **HTML** and **CSS**. The project showcases personal projects, skills, and a contact section while maintaining a visually appealing and user-friendly design.
